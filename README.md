@@ -1,9 +1,15 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  👯 I’m looking to collaborate on ...
 
-  
+My name is Saad, and I'm a UoFT-trained MLOps engineer interested in all things Data Science and product enablement!
+
+- 🔭 I’m currently working to build and deploy data products within 24 hours | [ImmiCan](https://immican.ai/)
+- 🌱 I recently built a web scraper to extract NAICS data [Here](https://immican.ai/)
+- 👯 I’m looking to collaborate on YouTube videos!
+
+- ## Open to MLOPs Engineering roles 👐
+  - Feel free to [email me](saadkhan188@gmail.com) 
+
+
 <!--
 **Saadkhan-188/Saadkhan-188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
