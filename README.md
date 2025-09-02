@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Saad, and I'm a UoFT-trained MLOps engineer interested in all things Data Science and product enablement!
+My name is Saad, and I'm a UoFT-trained ML engineer interested in all things Data Science and product enablement!
 
-- 🔭 I’m currently working to build and deploy data products within 24 hours | [ImmiCan](https://immican.ai/)
+- 🔭 I’m currently working to build and deploy data products within 7 days | [ImmiCan](https://immican.ai/)
 - 🌱 I recently built a web scraper to extract NAICS data [Here](https://immican.ai/)
 - 👯 I’m looking to collaborate on YouTube videos!
 
