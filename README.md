@@ -6,8 +6,8 @@ My name is Saad, and I'm a UoFT-trained ML engineer interested in all things Dat
 - 🌱 I recently built a web scraper to extract NAICS data [Here](https://immican.ai/)
 - 👯 I’m looking to collaborate on YouTube videos!
 
-- ## Open to MLOPs Engineering roles 👐
-  - Feel free to [email me](saadkhan188@gmail.com) 
+## Open to ML Engineering roles 👐
+- Feel free to [email me](saadkhan188@gmail.com) 
 
 
 <!--
